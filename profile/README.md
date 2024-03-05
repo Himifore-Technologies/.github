@@ -1,4 +1,4 @@
-## Hemifore-Technologies
+## Himifore-Technologies
   welcome to our community
 <!--
 
